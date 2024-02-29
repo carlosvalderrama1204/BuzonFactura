@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T13:20:41.483Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="fq7G54OJcohTar-ieagZ" version="23.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-29T14:26:27.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="nXA5G-H754BaWj7yygr3" version="23.1.7" type="github" pages="2">
   <diagram name="Portal-VentanillaCorrespondencia" id="QCo4Kk0gSeSvZ4JQNtLt">
     <mxGraphModel dx="1914" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -601,7 +601,7 @@
         </mxCell>
         <mxCell id="uYMFkTjU1exhSkV3glWH-23" value="Cargue DIP&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;y documentos&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;soporte&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" parent="uYMFkTjU1exhSkV3glWH-22" connectable="0" vertex="1">
           <mxGeometry x="-0.153" relative="1" as="geometry">
-            <mxPoint x="1" y="1" as="offset" />
+            <mxPoint x="-150" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uYMFkTjU1exhSkV3glWH-24" value="Proceso DIP" style="outlineConnect=0;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;shape=mxgraph.aws3.maintenance_window;fillColor=#bac8d3;strokeColor=#23445d;labelPosition=center;" parent="1" vertex="1">
