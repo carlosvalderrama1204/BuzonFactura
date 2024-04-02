@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T19:31:25.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qkQy5RBJD6YsfZ3Bzi6l" version="24.2.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-02T19:32:17.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qwtkniS7XVghmsZiw-vN" version="24.2.0" type="github" pages="4">
   <diagram name="Portal-VentanillaCorrespondencia" id="QCo4Kk0gSeSvZ4JQNtLt">
     <mxGraphModel dx="1320" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -1180,7 +1180,7 @@
           <mxGeometry x="1156" y="150" width="454" height="280" as="geometry" />
         </mxCell>
         <mxCell id="9RnNEyKGmcqcS7yroCGj-3" value="Interoperabilidad Caja" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;fontStyle=1;dashed=1;fillStyle=auto;gradientColor=#E6E6E6;dashPattern=8 8;arcSize=0;align=center;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="600" y="549.5" width="425" height="256" as="geometry" />
+          <mxGeometry x="600" y="549.5" width="320" height="240.5" as="geometry" />
         </mxCell>
         <mxCell id="9RnNEyKGmcqcS7yroCGj-4" value="Portal&amp;nbsp; Corporativo" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;strokeColor=#6c8ebf;fontSize=16;fillColor=#dae8fc;opacity=80;verticalAlign=top;align=center;dashed=1;arcSize=2;fontStyle=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="510" width="221" height="400" as="geometry" />
