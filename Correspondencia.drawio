@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T19:32:17.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qwtkniS7XVghmsZiw-vN" version="24.2.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-02T21:33:26.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="eg1Sn2FlJ2LAKoHTTRTO" version="24.2.0" type="github" pages="4">
   <diagram name="Portal-VentanillaCorrespondencia" id="QCo4Kk0gSeSvZ4JQNtLt">
     <mxGraphModel dx="1320" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -1269,9 +1269,14 @@
           <mxGeometry x="675" y="632.75" width="94.5" height="94.5" as="geometry" />
         </mxCell>
         <mxCell id="9RnNEyKGmcqcS7yroCGj-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="9RnNEyKGmcqcS7yroCGj-40" target="9RnNEyKGmcqcS7yroCGj-25">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="680" />
+              <mxPoint x="470" y="680" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="9RnNEyKGmcqcS7yroCGj-27" value="Datos de&lt;br&gt;correspondencia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="9RnNEyKGmcqcS7yroCGj-26">
+        <mxCell id="9RnNEyKGmcqcS7yroCGj-27" value="Crear Radicado()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="9RnNEyKGmcqcS7yroCGj-26">
           <mxGeometry x="-0.4369" y="-1" relative="1" as="geometry">
             <mxPoint x="20" as="offset" />
           </mxGeometry>
@@ -1453,6 +1458,21 @@
         </mxCell>
         <mxCell id="9RnNEyKGmcqcS7yroCGj-68" value="Documentos &lt;br&gt;Soporte" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/images-128.png" vertex="1" parent="1">
           <mxGeometry x="550" y="391" width="34.99" height="34.99" as="geometry" />
+        </mxCell>
+        <mxCell id="CQahUOJx9ei-pMsJyjBz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="436" y="700.5" as="sourcePoint" />
+            <mxPoint x="671" y="700.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="466" y="700.5" />
+              <mxPoint x="466" y="700.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CQahUOJx9ei-pMsJyjBz-2" value="Crear DIP()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="CQahUOJx9ei-pMsJyjBz-1">
+          <mxGeometry x="-0.4369" y="-1" relative="1" as="geometry">
+            <mxPoint x="20" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
