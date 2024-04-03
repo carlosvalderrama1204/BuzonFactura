@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T21:33:26.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="eg1Sn2FlJ2LAKoHTTRTO" version="24.2.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-03T22:12:21.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3SuY83iSCtM2V-0NQCts" version="24.2.0" type="github" pages="4">
   <diagram name="Portal-VentanillaCorrespondencia" id="QCo4Kk0gSeSvZ4JQNtLt">
-    <mxGraphModel dx="1320" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="AoAXXlkHNZzb-lwazaPj-0" />
         <mxCell id="AoAXXlkHNZzb-lwazaPj-1" parent="AoAXXlkHNZzb-lwazaPj-0" />
@@ -515,7 +515,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MWSRnIT94hO-huYr0squ" name="Page-2">
-    <mxGraphModel dx="1914" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1914" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -870,7 +870,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eksrbY_ArecvHK8nnX-m" name="Page-3">
-    <mxGraphModel dx="1595" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1169,12 +1169,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TVFatG0mchgSyvYhB_Mp" name="Page-4">
-    <mxGraphModel dx="1914" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2015" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9RnNEyKGmcqcS7yroCGj-1" value="COMPENSAR CCF" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=14;fontStyle=1;arcSize=4;dashed=1;align=center;dashPattern=8 8;opacity=20;gradientColor=#FFE6CC;container=0;fillColor=default;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="220" y="480" width="1580" height="560" as="geometry" />
+          <mxGeometry x="210" y="480" width="1580" height="560" as="geometry" />
         </mxCell>
         <mxCell id="9RnNEyKGmcqcS7yroCGj-2" value="COMPENSAR SALUD" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=14;fontStyle=1;arcSize=4;dashed=1;align=center;dashPattern=8 8;opacity=50;gradientColor=#FFE6CC;container=0;" vertex="1" parent="1">
           <mxGeometry x="1156" y="150" width="454" height="280" as="geometry" />
@@ -1229,18 +1229,6 @@
         </mxCell>
         <mxCell id="9RnNEyKGmcqcS7yroCGj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9RnNEyKGmcqcS7yroCGj-19" target="9RnNEyKGmcqcS7yroCGj-13">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9RnNEyKGmcqcS7yroCGj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="9RnNEyKGmcqcS7yroCGj-19" target="9RnNEyKGmcqcS7yroCGj-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1196" y="958" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9RnNEyKGmcqcS7yroCGj-18" value="Cargue DIP&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;y documentos&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;soporte&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" connectable="0" vertex="1" parent="9RnNEyKGmcqcS7yroCGj-17">
-          <mxGeometry x="-0.153" relative="1" as="geometry">
-            <mxPoint x="-150" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="9RnNEyKGmcqcS7yroCGj-19" value="Proceso DIP" style="outlineConnect=0;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;shape=mxgraph.aws3.maintenance_window;fillColor=#bac8d3;strokeColor=#23445d;labelPosition=center;" vertex="1" parent="1">
           <mxGeometry x="1166" y="700.5" width="60" height="63" as="geometry" />
@@ -1472,6 +1460,20 @@
         <mxCell id="CQahUOJx9ei-pMsJyjBz-2" value="Crear DIP()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="CQahUOJx9ei-pMsJyjBz-1">
           <mxGeometry x="-0.4369" y="-1" relative="1" as="geometry">
             <mxPoint x="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgpgqMPdB60B0T-UX7W6-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="9RnNEyKGmcqcS7yroCGj-20" target="9RnNEyKGmcqcS7yroCGj-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="960" as="sourcePoint" />
+            <mxPoint x="910" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1196" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MgpgqMPdB60B0T-UX7W6-2" value="Cargue DIP&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;y documentos&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;soporte&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MgpgqMPdB60B0T-UX7W6-1">
+          <mxGeometry x="-0.3117" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
